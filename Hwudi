@@ -1,0 +1,5 @@
+cd Devil
+
+$ chmod +x *
+
+$ python2 wasi.py
